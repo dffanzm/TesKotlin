@@ -8,4 +8,6 @@
     <string name="text_header">Halaman ke-2</string>
     <string name="button_label_browser">Browse Page</string>
     <string name="button_label_next1">Tes App</string>
+    <string name="button_label_kontak">Daftar Kontak</string>
+    <string name="button_label_maps">Halaman Maps</string>
 </resources>
